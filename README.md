@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet:Informações de Filmes e Séries</h1>
+<h1 align="center">:file_cabinet:Site de Informações de Filmes e Séries</h1>
 
 ## :memo: Descrição
 Projeto criado para a matéria de Códigos de Alta Performance Web. Site de entretenimento para Streaming de filmes etc (exemplos de sites: Netflix, Prime Video
