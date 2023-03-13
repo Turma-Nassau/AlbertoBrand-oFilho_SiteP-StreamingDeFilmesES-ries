@@ -1,10 +1,10 @@
 <h1 align="center">:file_cabinet:Site de Informações de Filmes e Séries</h1>
 
 ## :memo: Descrição
-Projeto criado para a matéria de Códigos de Alta Performance Web. Site de entretenimento para Streaming de filmes etc (exemplos de sites: Netflix, Prime Video
+Projeto criado para a matéria de Códigos de Alta Performance Web. Site para obter informações de filmes etc (exemplos de sites: IMDB, MyAnimeList)
 
 ## :books: Funcionalidades
-* <b>Funcionalidades </b>:Neste site, o usuário poderá assistir a suas séries e filmes preferidos no mesmo lugar e sem pagar nada.
+* <b>Funcionalidades </b>:Neste site, o usuário poderá encontrar as informações de seus filmes e séries (atores, duração do procurado, direção, etc) além de colocar um comentário dando sua crítica e sua nota.
 
 ## :wrench: Tecnologias utilizadas
 * HTML
