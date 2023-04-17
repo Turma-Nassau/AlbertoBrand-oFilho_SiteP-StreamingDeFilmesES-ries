@@ -1,0 +1,113 @@
+.mainContainer {
+  margin-top: 12vh;
+}
+.mainContainer .titleContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: min(10vw, 90px);
+}
+.mainContainer .titleContainer > p,
+.mainContainer .titleContainer h2 {
+  margin: 0;
+}
+@media screen and (min-width: 1024px) {
+  .mainContainer .titleContainer {
+    font-size: 1.5em;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .mainContainer .titleContainer {
+    font-size: 2em;
+  }
+}
+@media screen and (min-width: 2560px) {
+  .mainContainer .titleContainer {
+    font-size: 3em;
+  }
+}
+.mainContainer .formContainer {
+  display: grid;
+  justify-content: center;
+  grid-row-gap: 2vh;
+  align-items: flex-start;
+  justify-items: center;
+}
+.mainContainer .formContainer .input {
+  line-height: 28px;
+  width: min(70vw, 1100px);
+  border: 2px solid transparent;
+  border-bottom-color: #777;
+  padding: 0.2rem 0;
+  outline: none;
+  background-color: transparent;
+  color: #0d0c22;
+  transition: 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+@media screen and (min-width: 1024px) {
+  .mainContainer .formContainer .input {
+    font-size: 1em;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .mainContainer .formContainer .input {
+    font-size: 1.5em;
+  }
+}
+@media screen and (min-width: 2560px) {
+  .mainContainer .formContainer .input {
+    font-size: 2.5em;
+  }
+}
+.mainContainer .formContainer .input:focus, .mainContainer .formContainer .input:hover {
+  outline: none;
+  padding: 0.2rem 0.3rem;
+}
+.mainContainer .formContainer .input::placeholder {
+  color: #777;
+}
+.mainContainer .formContainer .input:focus::placeholder {
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+.mainContainer .formContainer .btnContainer {
+  display: flex;
+  justify-content: center;
+  margin: min(5vw, 40px);
+}
+.mainContainer .line {
+  height: 1px;
+  border: 0;
+  background: #777;
+  width: min(70vw, 1100px);
+}
+.mainContainer .minorText {
+  font-size: 14px;
+}
+.mainContainer .minorText .link {
+  text-decoration: none;
+  color: #23c483;
+}
+.mainContainer .spanRedirect {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+@media screen and (min-width: 1024px) {
+  .mainContainer .spanRedirect {
+    font-size: 1em;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .mainContainer .spanRedirect {
+    font-size: 1.5em;
+  }
+}
+@media screen and (min-width: 2560px) {
+  .mainContainer .spanRedirect {
+    font-size: 2em;
+  }
+}
+
+/*# sourceMappingURL=Register.module.css.map */

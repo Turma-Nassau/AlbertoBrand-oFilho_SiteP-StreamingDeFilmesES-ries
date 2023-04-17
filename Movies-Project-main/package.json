@@ -1,0 +1,23 @@
+{
+  "name": "movies-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "watch": "sass --watch src/styles/scss:src/styles/css",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "axios": "^1.3.2",
+    "dotenv": "^16.0.3",
+    "eslint": "8.34.0",
+    "eslint-config-next": "13.1.6",
+    "kute.js": "^2.2.4",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}

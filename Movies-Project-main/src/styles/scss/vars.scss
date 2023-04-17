@@ -1,0 +1,13 @@
+@import "colors";
+
+@mixin fontSize($fs1024, $lfs1440, $fs2560) {
+  @media screen and (min-width: 1024px) {
+    font-size: $fs1024;
+  }
+  @media screen and (min-width: 1440px) {
+    font-size: $lfs1440;
+  }
+  @media screen and (min-width: 2560px) {
+    font-size: $fs2560;
+  }
+}
