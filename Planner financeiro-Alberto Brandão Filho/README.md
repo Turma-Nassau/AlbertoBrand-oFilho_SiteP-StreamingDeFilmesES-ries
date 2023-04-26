@@ -28,7 +28,7 @@ ira ser permitido ao usuario adicionar e gerenciar sua renda e despesas, criar o
 
 ## :man_technologist: Autores
 
-- [@RayHakku](https://github.com/RayHakku)
+- [@BettoBrandao](https://github.com/BettoBrandao)
 
 ## :receipt: Mockup/Storyboard
 
