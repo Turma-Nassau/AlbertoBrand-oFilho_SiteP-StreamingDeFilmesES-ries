@@ -1,15 +1,14 @@
 # :moneybag: Planner Financeiro Pessoal :moneybag:
 
-Este APP ira ajudar as pessoas a ter um melhor entendimento e gerenciamento de suas vidas financeiras, melhorando o bem estar e reduzindo o estresse financeiro.
-ira ser permitido ao usuario adicionar e gerenciar sua renda e despesas, criar orçamentos, e ver o seu historico financeiro.
+Este aplicativo ajudará as pessoas a entender e gerenciar melhor suas vidas financeiras, melhorar o bem-estar e reduzir o estresse financeiro. Os usuários poderão adicionar e gerenciar suas receitas e despesas, criar orçamentos e visualizar seu histórico financeiro.
 
 ## Funcionalidades :pushpin:
 
-- Adicionar Despesas
-- Criar orçamentos em diferentes categorias
-- Visualizar historico financeiro
-- Visualizar saldo geral das contas
-- Criar objetivos financeiros
+- Adicione Despesas
+- Crie diferentes categorias de orçamentos
+- Veja o historico financeiro
+- Verifique o saldo geral da conta
+- Defina metas financeiras
 - Notificar o usuario sobre os limites
 
 ## Roadmap :pushpin:
@@ -32,7 +31,7 @@ ira ser permitido ao usuario adicionar e gerenciar sua renda e despesas, criar o
 
 ## :receipt: Mockup/Storyboard
 
-- [Figma](https://www.figma.com/file/afGQmgdNhhrzt15v4TWyqf/Planner-Financeiro?node-id=0%3A1&t=vc4LcWT1ifejr4em-1) In Progress
+- [Figma](https://www.figma.com/file/Fx2X5515V87p7mndj0KT1w/Diagrama---Planner-Financeiro?node-id=0-1&t=K28sDhRZgtjI4Ekj-0) In Progress
 
 ## Estrutura de Dados
 
